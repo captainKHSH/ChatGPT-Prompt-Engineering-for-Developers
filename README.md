@@ -1,4 +1,4 @@
-# ChatGPT-Prompt-Engineering-for-Developers
+# A short course on ChatGPT-Prompt-Engineering-for-Developers from Coursera
 ### Overview
 A comprehensive guide to harnessing the power of prompt engineering using ChatGPT. This project is to understand the nuances of crafting effective prompts and leveraging them for various applications such as summarizing, inferring, transforming, and expanding text.
 ### Key Topics
